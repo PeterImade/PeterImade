@@ -11,10 +11,7 @@ I'm a Software Engineer. I'm passionate about learning, sharing knowledge, solvi
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer(C#/.NET, React JS)(Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing peterimade6@gmail.com.
-
---- 
+ 
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterimade&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterimade&layout=pie)](https://github.com/peterimade/github-readme-stats)
-
-
-| ------------- | ------------- |
+ 
