@@ -13,5 +13,5 @@ I'm a Software Engineer. I'm passionate about learning, sharing knowledge, solvi
 - 📫 You can [view my resume](#) and contact me by emailing peterimade6@gmail.com.
  
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterimade&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterimade&layout=pie)](https://github.com/peterimade/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterimade&layout=compact)](https://github.com/peterimade/github-readme-stats)
  
