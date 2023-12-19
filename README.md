@@ -12,9 +12,9 @@ I'm a Software Engineer. I'm passionate about learning, sharing knowledge, solvi
 - 💼 Job interests: Software Engineer(C#/.NET, React JS)(Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing peterimade6@gmail.com.
 
----
+--- 
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterimade&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterimade&layout=pie)](https://github.com/peterimade/github-readme-stats)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete5145&show_icons=true&include_all_commits=true&hide_border=true" alt="Peter's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pete5145&langs_count=8&layout=compact&hide_border=true" alt="Peter's GitHub stats" /> | 
 
-![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterimade&show_icons=true&theme=transparent)
 | ------------- | ------------- |
