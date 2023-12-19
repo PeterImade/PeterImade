@@ -14,5 +14,7 @@ I'm a Software Engineer. I'm passionate about learning, sharing knowledge, solvi
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete5145&show_icons=true&include_all_commits=true&hide_border=true" alt="Peter's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pete5145&langs_count=8&layout=compact&hide_border=true" alt="Peter's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete5145&show_icons=true&include_all_commits=true&hide_border=true" alt="Peter's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pete5145&langs_count=8&layout=compact&hide_border=true" alt="Peter's GitHub stats" /> | 
+
+![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterimade&show_icons=true&theme=transparent)
 | ------------- | ------------- |
