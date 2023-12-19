@@ -7,12 +7,12 @@ I'm a Software Engineer. I'm passionate about learning, sharing knowledge, solvi
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning React.js.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer(C#/.NET, React JS)(Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing peterimade6@gmail.com.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete5145&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pete5145&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete5145&show_icons=true&include_all_commits=true&hide_border=true" alt="Peter's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pete5145&langs_count=8&layout=compact&hide_border=true" alt="Peter's GitHub stats" /> |
 | ------------- | ------------- |
