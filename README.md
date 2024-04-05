@@ -8,6 +8,7 @@ I'm a Software Engineer. I'm passionate about learning, sharing knowledge, solvi
 - 😊 Pronouns: He/him
 - 😊 I’m looking for help with open source projects, hackathons, junior-level opportunities.
 - 💼 Job interests: Software Engineer(C#/.NET, JavaScript, Python, FastAPI).
+- ⚡ Fun facts: I solve coding challenges on Codewars and Leetcode during my spare time; I read technical blogs and books.
 - 📫 You can [view my resume](#) and contact me by emailing peterimade6@gmail.com.
  
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterimade&show_icons=true&theme=tokyonight)
