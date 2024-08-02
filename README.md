@@ -6,7 +6,7 @@ I'm a Software Engineer and Techical Writer. I'm passionate about learning, shar
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 😊 I’m looking for help with job opportunities, open source projects, and hackathons.
+- 😊 I’m seeking opportunities for job roles, open source projects, and hackathons.
 - 💼 Job interests: Software Engineer(Python, FastAPI, Django, C#/.NET, and JavaScript).
 - ⚡ Fun facts: In my spare time, I tackle coding challenges on Codewars, read technical blogs and books, and enjoy playing chess.
 - 📫 Contact me by emailing peterimade6@gmail.com.
