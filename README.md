@@ -1,6 +1,6 @@
 # Hi👋, I'm Peter
 
-**I am a full-stack software developer with expertise in C#, ASP.NET, and Angular. I’m passionate about working on projects that have a positive impact and contribute to making the world a better place. As a result, I’m always eager to collaborate on volunteer projects.**
+### I am a full-stack software developer with expertise in C#, .NET, and Angular. I’m passionate about working on projects that have a positive impact and contribute to making the world a better place. As a result, I’m always eager to collaborate on volunteer projects.
 
 ## Languages and Tools:
 C# | .NET | Angular | TypeScript | Azure | Mssql | Git | Docker | Python | FastAPI | Node | Express | Sass | Redis
