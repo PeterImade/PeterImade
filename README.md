@@ -9,5 +9,5 @@ C# | .NET | Angular | TypeScript | Azure | Mssql | Git | Docker | Python | FastA
 [LinkedIn](https://www.linkedin.com/in/peter-imade/)  [Twitter](https://x.com/Imadepeter2)
 
 ## 📫How to reach me:
-[career.imadepeter@outlook.com](career.imadepeter@outlook.com)
+[peterimade6@gmail.com](peterimade6@gmail.com)
 
