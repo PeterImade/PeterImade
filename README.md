@@ -1,7 +1,7 @@
 # 💫 Hi there👋, I'm Peter
 
 ### Software Developer. 
-Welcome to my GitHub! I'm passionate about building Scalable Web Apps & Enterprise Solutions. With a focus on clean code and performance optimization, I strive to create impactful solutions that make a difference.
+Welcome! I'm passionate about building Scalable Web Apps & Enterprise Solutions. With a focus on clean code and performance optimization, I strive to create impactful solutions that make a difference.
 
 
 ## 🌐 Socials:
