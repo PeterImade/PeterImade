@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Peter Imade<br><br>- 🔭 I'm a Software Engineer(.NET).<br>- ⚡ In my free time I write, read, watch documentaries, and play games.</p>
+<p align="left">I'm Peter Imade<br><br>- 🔭 I'm a Software Engineer(.NET).<br>- ⚡ In my free time I write, listen to podcasts, read engineering blogs, watch documentaries, and watch movies.</p>
 
 ###
 
