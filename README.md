@@ -31,8 +31,6 @@
 
 ###
 
-TypeScript, C#, GO, .NET, Python, Java, Node.js, FastAPI
-
 <div align="left">
   TypeScript, C#, GO, .NET, Python, Java, Node.js, FastAPI
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
