@@ -24,7 +24,7 @@
 <p align="left">
   I'm a <strong>Senior Backend Engineer</strong> with 5+ years of experience building scalable, high-performance systems across fintech, SaaS, and enterprise environments.
   <br /><br />
-  I work across the stack—with deep expertise in <strong>Java (Spring Boot)</strong> and <strong>C# (.NET Core)</strong>—and I'm equally comfortable designing microservices, optimizing databases, or mentoring junior engineers.
+  I work across the stack—with deep expertise in <strong>Java (Spring Boot)</strong>, <strong>C# (.NET Core)</strong>, and <strong>Node.js</strong>—and I'm equally comfortable designing microservices, optimizing databases, or mentoring junior engineers.
   <br /><br />
   Outside of code, I write, listen to podcasts, read engineering blogs, watch documentaries, and enjoy a good movie.
 </p>
